@@ -11,6 +11,7 @@
     <modules>
         <module>jul-demo</module>
         <module>Log4j-demo</module>
+        <module>JCL-demo</module>
     </modules>
 
     <properties>
