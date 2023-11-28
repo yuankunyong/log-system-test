@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>jul-demo</module>
+        <module>Log4j-demo</module>
     </modules>
 
     <properties>
@@ -17,6 +18,4 @@
         <maven.compiler.target>8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-
-
 </project>
